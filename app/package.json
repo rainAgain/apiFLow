@@ -1,0 +1,22 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "data.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "mustache": "^2.3.0",
+    "request": "^2.83.0"
+  },
+  "devDependencies": {
+    "jsonfile": "^4.0.0",
+    "nodemailer": "^4.6.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
